@@ -9,24 +9,22 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
+      https://public.tableau.com/app/profile/ikeda.tsutomu/viz/B2VBWEEK10SeaTurtleSightingsinNewfoundlandandLabradorCanada/1
 
+      I consider this visualization of turtle sightings near Labrador and Newfoundland a good one for the following reasons:
+        1) As conventions require, the source of data is presented at the bottom of the graph. The visualization also seems to be appropriate regarding its aesthetic, substantive and perceptual qualities. It is aesthetically pleasing 
+        2) It is effective in its goal to show both the spatial distribution of sightings as well as the temporal/seasonal changes in their frequency. The overall message of the graph is conveyed through the visualization and made explicit by the textual explanation as well. 
 
+        Criticism: The graph displaying the numbers of sightings per month could have been improved by either choosing a different method to plot the date or by better labelling the x-axis. At first, it might be confusing for the audience without the textual explanations presented on the right. 
 
+    
+    https://public.tableau.com/app/profile/cnbc5283/viz/Trump_Holdings_network_graph/Dashboard1
 
-
-
+    I consider the above graph less useful because it is overpopulated by the nodes and connections between them, it increases the cognitive load of the audience. Regarding the latter, the connections are not meaningful without proper labelling. The visualization without additional explanation does not seem to convey any message other than displaying the high number of Donald Trump's holdings split into a few major categories. While it seems to be an honest visualization of data, it does not meet the standards of aesthetic and perceptual qualities of data visualization. 
 
       ```
     - How could this data visualization have been improved?  
-      ```
-      Your answer...
-
-
-
-
-
+      It could be improved through proper labelling (especially by clarifying/detailing the nature of the connections between nodes) and by reducing the number of nodes and holdings displayed. Additionally, it would be interesting to display the percentage that each category represents of Donald Trump's total holdings, in addition to the monetary value of each. For this, maybe an additional pie chart could be used. Its aesthetic could be also improved. 
 
       
       ```
